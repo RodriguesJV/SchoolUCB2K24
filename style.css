@@ -1,0 +1,21 @@
+/*!aqui temos a estilização dos quadrados*/
+.test {
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px ;
+    background-color: red;
+}
+
+#testid {
+    background-color: blue;
+
+}
+
+#circulo {
+
+    background-color: aquamarine;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
